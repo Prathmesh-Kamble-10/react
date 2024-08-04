@@ -12,4 +12,14 @@ function App() {
   )
 }
 
-export default App
+function myFunc(){
+  return(
+    <>
+    <div>
+    <h1>Ganpati Bappa Morya</h1>
+    </div>
+    </>
+  )
+}
+
+export default (App)
